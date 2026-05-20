@@ -1,14 +1,13 @@
-# /src
+# Source Materials
 
-This folder is for source code and demo code associated with your session.
+This folder contains source artifacts used for the session demo work based on this CSVHelper fork:
 
-## What goes here
+- https://github.com/karpinsn/CsvHelper
 
-- Sample applications or scripts demonstrated during the session
-- Starter code that attendees can use as a starting point
-- Solution code for completed exercises
+## Demo Videos
 
-## Tips
+- [Create WriteRecords benchmark](DEM300-CreateBenchmark.mp4)
+- [Optimize CPU with the benchmark](DEM300-OptimizeCPU.mp4)
 
-- Include a README or comments explaining how to run the code
-- If your session doesn't include source code, feel free to remove this folder
+## Related Files
+- [Repository README](../README.md)
