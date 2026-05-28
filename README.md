@@ -50,12 +50,14 @@ Use these as a starting point — or write your own!
 
 | Resource | Description |
 |:---------|:------------|
+| [Profile your app with GitHub Copilot Profiler Agent](https://aka.ms/build26/profilerAgent?utm_source=build-dem300-related-copilot-profiler-agent-cta&utm_medium=event&utm_campaign=msbuild-2026) | Try the profiler-focused Copilot workflow shown in the demo |
 | [Visual Studio profiling tools overview](https://learn.microsoft.com/visualstudio/profiling/profiling-feature-tour?view=visualstudio) | Tour of the Performance Profiler and Diagnostic Tools workflows |
 | [Analyze CPU usage in Visual Studio](https://learn.microsoft.com/visualstudio/profiling/cpu-usage?view=visualstudio) | Step-by-step guidance for collecting and analyzing CPU traces |
 | [Analyze memory usage in Visual Studio](https://learn.microsoft.com/visualstudio/profiling/analyze-memory-usage?view=visualstudio) | Guidance on finding leaks and inefficient allocations |
 | [GitHub Copilot agent mode in Visual Studio](https://learn.microsoft.com/visualstudio/ide/copilot-agent-mode?view=visualstudio) | How to use agent mode to iterate on diagnostics and fixes |
 | [Built-in and custom GitHub Copilot agents in Visual Studio](https://learn.microsoft.com/visualstudio/ide/copilot-specialized-agents?view=visualstudio) | Overview of built-in agents like @profiler, @debugger, and @test |
-| [.NET diagnostics tools overview](https://learn.microsoft.com/dotnet/core/diagnostics/tools-overview#cli-tools) | Command-line diagnostics tools for deeper production troubleshooting |
+| [Check out the CsvHelper Library](https://aka.ms/build26/csvhelper-library?utm_source=build-dem300-related-csvhelper-library-cta&utm_medium=event&utm_campaign=msbuild-2026) | Explore the CsvHelper project used in the demo |
+| [CSVHelper Optimization PR](https://aka.ms/build26/csvhelper-optimization?utm_source=build-dem300-related-csvhelper-optimization-pr-cta&utm_medium=event&utm_campaign=msbuild-2026) | Review the optimization changes highlighted in this session |
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
 
 
