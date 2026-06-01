@@ -58,6 +58,7 @@ Use these as a starting point — or write your own!
 | [Built-in and custom GitHub Copilot agents in Visual Studio](https://learn.microsoft.com/visualstudio/ide/copilot-specialized-agents?view=visualstudio) | Overview of built-in agents like @profiler, @debugger, and @test |
 | [Check out the CsvHelper Library](https://aka.ms/build26/csvhelper-library?utm_source=build-dem300-related-csvhelper-library-cta&utm_medium=event&utm_campaign=msbuild-2026) | Explore the CsvHelper project used in the demo |
 | [CSVHelper Optimization PR](https://aka.ms/build26/csvhelper-optimization?utm_source=build-dem300-related-csvhelper-optimization-pr-cta&utm_medium=event&utm_campaign=msbuild-2026) | Review the optimization changes highlighted in this session |
+| [LAB501: From zero to deployed on Azure with AI agents](https://github.com/microsoft/Build26-LAB501-from-zero-to-deployed-on-azure-with-ai-agents) | Related Build 2026 lab for taking an AI agent solution from setup to Azure deployment |
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
 
 
